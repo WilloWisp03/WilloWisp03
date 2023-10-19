@@ -12,7 +12,7 @@
 <h3> Interested in what I have done</h3>
 Check out these two projects: 
 <a href="https://github.com/willpk03/TetrisRPG">Tetris RPG</a> My attempt at creating a RPG fighting system that uses Tetris to attack and defend. 
-<a href="https://github.com/willpk03/Run-in-Bullet-Hell-">Newest Game Project</a> This project was my first project since finishing my traineeship and I wanted to try and work on a small project that I could easily expand in the future. 
+<br><a href="https://github.com/willpk03/Run-in-Bullet-Hell-">Newest Game Project</a> This project was my first project since finishing my traineeship and I wanted to try and work on a small project that I could easily expand in the future. 
 
 ### ⚡ Experiencced In:
 - C#
