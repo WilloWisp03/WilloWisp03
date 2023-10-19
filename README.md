@@ -30,4 +30,6 @@ Check out these two projects:
 - Game development in Unity
 - Creating Minecraft Plugins in Java
 
-
+### Contact me VIA:
+<br> Discord: willpk03
+<br> email: will.kennelly@icloud.com
