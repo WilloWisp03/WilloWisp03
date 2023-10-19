@@ -31,5 +31,5 @@ Check out these two projects:
 - Creating Minecraft Plugins in Java
 
 ### Contact me VIA:
-<br> Discord: willpk03
+Discord: willpk03
 <br> email: will.kennelly@icloud.com
