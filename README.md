@@ -5,9 +5,9 @@
 
 - 🎓 &nbsp; Currently looking for new work.
 
-- 🌱 &nbsp; Passionate of Game Design, and Software Development.
+- 🌱 &nbsp; Passionate in Game Design, and Software Development.
 
-- ✍️ &nbsp; Enjoy in my spare time to Write, read and play Video games with friends.
+- ✍️ &nbsp; Enjoy in my spare time writing, reading and playing Video games with friends.
 
 <h3> Interested in what I have done</h3>
 Check out these two projects: 
@@ -26,7 +26,7 @@ Check out these two projects:
 - Unity
 - Git
 
-### 👩‍💻 I'm currrently working on:
+### 👩‍💻 I'm currently working on:
 - Game development in Unity
 - Creating Minecraft Plugins in Java
 
