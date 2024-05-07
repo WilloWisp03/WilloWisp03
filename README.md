@@ -3,7 +3,7 @@
 
 - 👩‍💻 &nbsp; Had a Two year Traineeship at Microsoft that has recently finished
 
-- 🎓 &nbsp; Currently looking for new work.
+- 🎓 &nbsp; Currently working to development a Video game.
 
 - 🌱 &nbsp; Passionate in Game Design, and Software Development.
 
@@ -26,10 +26,5 @@ Check out these two projects:
 - Unity
 - Git
 
-### 👩‍💻 I'm currently working on:
-- Game development in Unity
-- Creating Minecraft Plugins in Java
-
-### Contact me VIA:
-Discord: willpk03
-<br> email: will.kennelly@icloud.com
+### 👩‍💻 I'm currently learning:
+- Learning Unreal
