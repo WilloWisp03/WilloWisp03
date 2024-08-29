@@ -1,13 +1,21 @@
 
 <h3> 💻 About Me </h3>
+Game Developer and Designer, passionate and looking for work!
 
-- 👩‍💻 &nbsp; Had a Two year Traineeship at Microsoft that has recently finished
+- 👩‍💻 &nbsp; Worked at Microsoft and Awesome Black
 
-- 🎓 &nbsp; Currently working to development a Video game.
-
-- 🌱 &nbsp; Passionate in Game Design, and Software Development.
+- 🌱 &nbsp; Passionate in creating, being it creatively writing, too creating solutions for problems in software development.
 
 - ✍️ &nbsp; Enjoy in my spare time writing, reading and playing Video games with friends.
+
+<h3> Interested in what I did at Awesome Black</h3>
+As there sole Game Developer I got tons of experience inside Unreal Engine. Over this time I created many things for game:
+- Interaction System
+- Inventory System
+- Dialogue System
+- Puzzles and Objectives
+- NPC Movement and controlling
+Sadly the game wasn't finished but you can get an idea of the sort of work I can do: [https://github.com/willpk03/TetrisRPG](https://github.com/willpk03/Awesome-Black-Game-Mechanics)
 
 <h3> Interested in what I have done</h3>
 Check out these two projects: 
