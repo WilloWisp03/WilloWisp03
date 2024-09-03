@@ -15,7 +15,7 @@ As there sole Game Developer I got tons of experience inside Unreal Engine. Over
 - Dialogue System
 - Puzzles and Objectives
 - NPC Movement and controlling
-Sadly the game wasn't finished but you can get an idea of the sort of work I can do: [https://github.com/willpk03/TetrisRPG](https://github.com/willpk03/Awesome-Black-Game-Mechanics)
+Sadly the game wasn't finished but you can get an idea of the sort of work I can do: https://github.com/willpk03/Awesome-Black-Game-Mechanics
 
 <h3> Interested in what I have done</h3>
 Check out these two projects: 
