@@ -15,15 +15,16 @@ As there sole Game Developer I got tons of experience inside Unreal Engine. Over
 - Dialogue System
 - Puzzles and Objectives
 - NPC Movement and controlling
-Sadly the game wasn't finished but you can get an idea of the sort of work I can do: https://github.com/willpk03/Awesome-Black-Game-Mechanics
+Sadly the game wasn't finished but you can get an idea of the sort of work I can do: <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Awesome Black Work</a>a>
 
 <h3> Interested in what I have done</h3>
 Check out these two projects: 
-<br><a href="https://github.com/willpk03/TetrisRPG">Tetris RPG</a> - My attempt at creating a RPG fighting system that uses Tetris to attack and defend. 
+<br><a href="https://github.com/willpk03/TetrisRPG">Tetris RPG</a> - A project worked in  
 <br><a href="https://github.com/willpk03/Run-in-Bullet-Hell-">Newest Game Project</a> - This project was my first project since finishing my traineeship and I wanted to try and work on a small project that I could easily expand in the future. 
 
 ### ⚡ Experiencced In:
 - C#
+- C++
 - Java
 - HTML
 - CSS
@@ -32,7 +33,7 @@ Check out these two projects:
 - VBA
 - Python
 - Unity
-- Git
+- Unreal
 
 ### 👩‍💻 I'm currently learning:
-- Learning Unreal
+- Learning more about C++ through https://courses.tomlooman.com/p/unrealengine-cpp
