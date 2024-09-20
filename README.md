@@ -10,12 +10,16 @@ Game Developer and Designer, passionate and looking for work!
 
 <h3> Interested in what I did at Awesome Black</h3>
 As their sole Game Developer I got tons of experience inside Unreal Engine. Over this time I created many things for game:
+
+ 
+
 - Interaction System
 - Inventory System
 - Dialogue System
 - Puzzles and Objectives
 - NPC Movement and controlling
-<br> Sadly the game wasn't finished but you can get an idea of the sort of work I can do: <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">My Work</a>
+
+Sadly the game wasn't finished but you can get an idea of the sort of work I can do: <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">My Work</a>
 
 <h3> Interested in my Work</h3>
 Check out these two projects: 
@@ -25,7 +29,7 @@ Check out these two projects:
 ### ⚡ Experiencced In:
 | Coding Languages | | Used in  | Examples |
 | ------------ | ------------ | ------------ | ------------ | 
-| C++| | Unreal Engine| <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Example #1</a>(Contains Details in ReadMe) | 
+| C++| | Unreal Engine| <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Example #1</a>  <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Details</a>| 
 | C#  |  | Unity Engine  |  <a href="https://github.com/willpk03/AdventOfCode">Example #1</a>(Contains Details in ReadMe), <a href="https://github.com/willpk03/TetrisRPG">Example #2</a> (Contains Details in ReadMe), <a href="https://github.com/willpk03/Rogue-lite-Bullet-Hell-">Example #3</a>(Contains Details in ReadMe)  | 
 | Java  |    |  Minecraft Plugin Development  | <a href="https://github.com/willpk03/McJam">Example #1</a> |
 | HTML, CSS, PHP  |    |  Web Development  | <a href="https://github.com/willpk03/School-projects">Example #1</a> |
