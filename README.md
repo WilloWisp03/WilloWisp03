@@ -26,6 +26,7 @@ Check out these two projects:
 <br><a href="https://github.com/willpk03/TetrisRPG">Tetris RPG</a> - A project worked in Unity that I did a few years ago to try and create a combat system for RPGs that based itself of using Tetris. Click the link to see a more indepth exploration of my design process and the coding that was created for the project. 
 <br><a href="https://github.com/willpk03/AdventofCode">Advent Of Code</a> - Interested in a more logical puzzles that I've previously done, click here to view my code for the different days I did. 
 <br>
+<br>
 <b> Interested in my Game Design Work? </b>I've stored a few of my Game Design documents to be viewed and provided a gateway to be able to understand my thinking. <a href="https://github.com/willpk03/Game-Design-Document-Examples">Click Here</a>
 
 ### ⚡ Experiencced In:
