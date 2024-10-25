@@ -31,8 +31,8 @@ Check out these two projects:
 ### ⚡ Experiencced In:
 | Coding Languages | | Used in  | Examples |
 | ------------ | ------------ | ------------ | ------------ | 
-| C++| | Unreal Engine| <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Example #1</a>  <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Details</a>| 
-| C#  |  | Unity Engine  |  <a href="https://github.com/willpk03/AdventOfCode">Example #1</a>(Contains Details in ReadMe), <a href="https://github.com/willpk03/TetrisRPG">Example #2</a> (Contains Details in ReadMe), <a href="https://github.com/willpk03/Rogue-lite-Bullet-Hell-">Example #3</a>(Contains Details in ReadMe)  | 
+| C++| | Unreal Engine| <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">Example #1</a>(Contains Details and Video in ReadMe)
+| C#  |  | Unity Engine  |  <a href="https://github.com/willpk03/AdventOfCode">Example #1</a>(Contains Details in ReadMe), <a href="https://github.com/willpk03/TetrisRPG">Example #2</a> (Contains Details in ReadMe), <a href="https://github.com/willpk03/Rogue-lite-Bullet-Hell-">Example #3</a>(Contains Details and Video in ReadMe)  | 
 | Java  |    |  Minecraft Plugin Development  | <a href="https://github.com/willpk03/McJam">Example #1</a> |
 | HTML, CSS, PHP  |    |  Web Development  | <a href="https://github.com/willpk03/School-projects">Example #1</a> |
 | VBA  |    |  Powerpoint and Excel  | Internal Work at Microsoft |
