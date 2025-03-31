@@ -1,14 +1,25 @@
 
-<h3> 💻 About Me </h3>
-Game Developer and Designer, passionate and looking for work!
+<h2> 💻 About Me </h2>
+
+![Demo mock up footage of On The Hearth](https://github.com/willpk03/willpk03/blob/main/Final%20Banner.png)
+
+<h3>Game Developer and Designer!</h3>
 
 - 👩‍💻 &nbsp; Worked previously at Microsoft and Awesome Black
 
 - 🌱 &nbsp; Passionate in creating; be it creatively writing, or creating solutions for problems in software development.
 
-- ✍️ &nbsp; Enjoy in my spare time writing, reading and playing Video games with friends.
+- ✍️ &nbsp; Enjoy in my spare time I enjoy writing, reading and playing Video games with friends.
 
-<h3> Interested in what I did at Awesome Black</h3>
+<h2>What am I currently doing?</h2>
+Currently, I'm taking part in a wonderful opportunity at Screen Queensland. I will be able to work with a team of individuals to create a Video game together. We will be able to create our own companies without the worry of having to earn a wage.
+
+Currently, I'm a Developer and Designer for On The Hearth, a game all about discovery and learning the book that your mentor has left behind so you can connect with the Village that now relies on you and you rely on them.
+
+![Demo mock up footage of On The Hearth](https://github.com/willpk03/willpk03/blob/main/OnTheHearthCRUNCH.gif)
+
+
+<h2> Interested in what I did at Awesome Black</h2>
 As their sole Game Developer I got tons of experience inside Unreal Engine. Over this time I created many things for game:
 
  
@@ -21,7 +32,7 @@ As their sole Game Developer I got tons of experience inside Unreal Engine. Over
 
 Sadly the game wasn't finished but you can get an idea of the sort of work I can do: <a href="https://github.com/willpk03/Awesome-Black-Game-Mechanics">My Work</a>
 
-<h3> Interested in my Work</h3>
+<h2> Interested in my other Work</h2>
 Check out these two projects: 
 <br><a href="https://github.com/willpk03/TetrisRPG">Tetris RPG</a> - A project worked in Unity that I did a few years ago to try and create a combat system for RPGs that based itself of using Tetris. Click the link to see a more indepth exploration of my design process and the coding that was created for the project. 
 <br><a href="https://github.com/willpk03/AdventofCode">Advent Of Code</a> - Interested in a more logical puzzles that I've previously done, click here to view my code for the different days I did. 
